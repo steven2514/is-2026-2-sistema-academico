@@ -5,7 +5,7 @@ Sistema de gestión académica para universidades que facilita consulta de asign
 ## Integrantes
 - **Steven** (@steven2514) - Mantenedor
 - **Antony Goez** (@Antonygt00) - Revisor
-- **Esteban** (@PAUTT19) - Desarrollador
+- **Esteban Pautt** (@PAUTT19) - Desarrollador
 - **Juan** (@JUAN98JS) - Relator
 
 ## Tecnologías
