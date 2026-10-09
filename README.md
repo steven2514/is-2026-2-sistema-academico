@@ -1,10 +1,10 @@
-﻿# Sistema Académico Universitario
+# Sistema Académico Universitario
 
 Sistema de gestión académica para universidades que facilita consulta de asignaturas, matriculación, calificaciones y administración de cursos.
 
 ## Integrantes
-- **Steven** (@steven2514) - Mantenedor
-- **Antony Goez** (@Antonygt00) - Revisor
+- **Steven Alvarez** (@steven2514) - Mantenedor
+- **Antony Goez Torres** (@Antonygt00) - Revisor
 - **Esteban Pautt** (@PAUTT19) - Desarrollador
 - **Juan** (@JUAN98JS) - Relator
 
