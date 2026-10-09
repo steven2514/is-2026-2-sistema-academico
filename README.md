@@ -6,7 +6,7 @@ Sistema de gestión académica para universidades que facilita consulta de asign
 - **Steven Alvarez** (@steven2514) - Mantenedor
 - **Antony Goez Torres** (@Antonygt00) - Revisor
 - **Esteban Pautt** (@PAUTT19) - Desarrollador
-- **Juan** (@JUAN98JS) - Relator
+- **Juan andres** (@JUAN98JS) - Relator
 
 ## Tecnologías
 - Java 17
